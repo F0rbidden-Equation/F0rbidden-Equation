@@ -26,7 +26,7 @@ and measures in order to correct it.
 
 - Field studied:
 . Programming 
-. Pentesting (IT,servers,Vpn,Wifi,...) 
+. Pentesting 
 . Network  
 . Security Network
 . CanBus
