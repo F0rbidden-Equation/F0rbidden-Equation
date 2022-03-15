@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![59378_1390298439_4139-1358161841-centre-europeen-lutte-cyber-criminalite](https://user-images.githubusercontent.com/59021489/158181723-96099a90-9916-425f-b557-80d76d56a05a.jpg)
 ```diff
-- Welcome on the github of F0rbidden-Equation
+- Welcome on the github F0rbidden-Equation
 I am passionate about cybersecurity, self-taught.
 I build programs and projects to perform security testing and audit, i share my projects, 
 programs on github. 
