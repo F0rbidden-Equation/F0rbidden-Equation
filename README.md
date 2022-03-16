@@ -29,7 +29,7 @@ I build programs and projects to perform security testing and audit for the Cybe
 . CanBus
 . OsInt
 . Virology
-. SDR,SigInt 
+. SDR
 . RFID
 . Projects Cybersecurity Raspberry pi , Arduino modules,...
 . Printer 3D , Software Fusion 360 , Cura
