@@ -26,11 +26,5 @@ I build programs and projects to perform security testing and audit for the Cybe
 . Pentesting 
 . Network  
 . Security Network
-. CanBus
-. OsInt
-. Virology
-. SDR
-. RFID
-. Projects Cybersecurity Raspberry pi , Arduino modules,...
-. Printer 3D , Software Fusion 360 , Cura
+
 ```
