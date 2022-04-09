@@ -26,5 +26,7 @@ I build programs and projects to perform security testing and audit for the Cybe
 . Pentesting 
 . Network  
 . Security Network
-
+. RFID
+. SDR
+. Robotics
 ```
