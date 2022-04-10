@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ```diff
 - Welcome on the github F0rbidden-Equation
 
-I am passionate about cybersecurity, self-taught.
+I am passionate about cybersecurity, self-taught, Ethical Hacking.
 I build programs and projects to perform security testing and audit for the Cybersecurity Domain
 
 
