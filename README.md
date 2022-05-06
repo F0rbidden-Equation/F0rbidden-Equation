@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I am passionate about cybersecurity, self-taught, Ethical Hacking.
 I build programs and projects to perform security testing and audit for the Cybersecurity Domain
 
-- Expert
+
 - Field studied:
 . Programming 
 . Pentesting 
