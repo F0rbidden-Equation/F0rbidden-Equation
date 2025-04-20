@@ -25,7 +25,7 @@ I build and deploy custom exploits, recon tools, and auditing scripts — blendi
 
 🚧 Projects:
 • Custom e-commerce platform (Java/JSP/MVC/MySQL) with XSS, SQLi, and RFI protections
-• OSINT recon tool with Google Dorks, proxy rotation & web scraping (Python)
+• OSINT recon tools (Python)
 • Cybersecurity hardware projects: SDR (Software Defined Radio), RFID spoofing/cloning, Wi-Fi pentesting, robotics automation with Arduino & Raspberry Pi
 • Admin dashboards with CRUD secured against common web vulns
 
