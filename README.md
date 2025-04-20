@@ -17,8 +17,19 @@ Here are some ideas to get you started:
 ```diff
 - Welcome on the github F0rbidden-Equation
 
-🎓 Fullstack Developer | Passionate about Cybersecurity & Ethical Hacking
-I’m a self-taught cybersecurity enthusiast who builds tools and projects focused on security testing and auditing within the cybersecurity domain.
+👨‍💻 Fullstack Dev turned Ethical Hacker
+I build and deploy custom exploits, recon tools, and auditing scripts — blending code with curiosity to break, learn, and secure.
+
+🛠️ Tech Stack: Python, Bash, JavaScript, Node.js, SQL, Docker, Java, JSP, Servlet, MVC
+🔍 Domains: Web Pentesting, OSINT, CTFs, Vulnerability Research, Red Team Ops
+
+🚧 Projects:
+• Custom e-commerce platform (Java/JSP/MVC/MySQL) with XSS, SQLi, and RFI protections
+• OSINT recon tool with Google Dorks, proxy rotation & web scraping (Python)
+• Real-time IRC message hashing & encryption prototype (Python)
+• Admin dashboards with CRUD secured against common web vulns
+
+Always building. Always learning. Always poking systems the right way. 
 
 
 - Field studied:
