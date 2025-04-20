@@ -34,12 +34,11 @@ I build and deploy custom exploits, recon tools, and auditing scripts — blendi
 Always building. Always learning. Always poking systems the right way. 
 
 
-- Field studied:
-. Programming 
-. Pentesting 
-. Network  
-. Security Network
-. RFID
-. SDR
-. Robotics
+🎓 Fields of Study
+💻 Fullstack Programming (Frontend & Backend)
+🛡️ Pentesting & Offensive Security
+🌐 Networking & Secure Network Design
+📡 RFID Attacks & Exploitation
+📶 Software Defined Radio (SDR)
+🤖 Robotics & Embedded Systems (Arduino / Raspberry Pi)
 ```
