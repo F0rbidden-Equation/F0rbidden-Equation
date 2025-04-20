@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ```diff
 - Welcome on the github F0rbidden-Equation
 
-👨‍💻 Fullstack Dev turned Ethical Hacker
+👨‍🎓 Associate’s Degree in Fullstack Development | 👨‍💻 Fullstack Dev turned Ethical Hacker
 I build and deploy custom exploits, recon tools, and auditing scripts — blending code with curiosity to break, learn, and secure.
 
 🛠️ Tech Stack: Python, Bash, JavaScript, TypeScript, Node.js, SQL, PHP, Docker, Java, JSP, Servlet, Angular, Symfony, MVC
