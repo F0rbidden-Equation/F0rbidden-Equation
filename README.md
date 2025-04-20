@@ -26,7 +26,7 @@ I build and deploy custom exploits, recon tools, and auditing scripts — blendi
 🚧 Projects:
 • Custom e-commerce platform (Java/JSP/MVC/MySQL) with XSS, SQLi, and RFI protections
 • OSINT recon tools (Python)
-• Cybersecurity hardware projects: SDR (Software Defined Radio), RFID spoofing/cloning, Wi-Fi pentesting
+• Cybersecurity hardware projects: SDR (Software Defined Radio), RFID, Wi-Fi pentesting
   robotics automation with Arduino & Raspberry Pi
 • Created Python GUI apps with PyQt for cybersecurity automation & user-friendly exploitation tools
 • Admin dashboards with CRUD secured against common web vulns
@@ -41,4 +41,5 @@ Always building. Always learning. Always poking systems the right way.
 📡 RFID Attacks & Exploitation
 📶 Software Defined Radio (SDR)
 🤖 Robotics & Embedded Systems (Arduino / Raspberry Pi)
+🧱 3D Printing for custom Arduino enclosures & cyber-physical prototypes
 ```
