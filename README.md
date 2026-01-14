@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  👨‍💻 Fullstack Dev turned Ethical Hacker
 I build and deploy custom exploits, recon tools, and auditing scripts — blending code with curiosity to break, learn, and secure.
 
-🛠️ Tech Stack: Python, Bash, JavaScript, TypeScript, SQL, PHP, Docker, Java, JSP, Servlet, Angular, Symfony, MVC
+🛠️ Tech Stack: Python, Bash, JavaScript, TypeScript, SQL, PHP, Docker, Java, JSP, Servlet, Angular, Symfony, MVC , C++
 🔍 Domains: Web Pentesting, OSINT, CTFs, Vulnerability Research , Networking
 
 🚧 Projects:
