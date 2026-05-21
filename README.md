@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 - Welcome on the github F0rbidden-Equation
 
  👨‍💻 Fullstack Dev turned Ethical Hacker
-I build and deploy custom exploits, recon tools, and auditing scripts — blending code with curiosity to break, learn, and secure.
+Fullstack Developer & Cybersecurity Enthusiast
+Passionate about cybersecurity, networking, automation and technical experimentation.
+I develop tools, technical projects and research environments focused on system analysis, security and network technologies.
 
 🛠️ Tech Stack: Python, Bash, JavaScript, TypeScript, SQL, PHP, Docker, Java, JSP, Servlet, Angular, Symfony, MVC , C++
 🔍 Domains: Web Pentesting, OSINT, CTFs, Vulnerability Research , Networking
@@ -31,14 +33,14 @@ I build and deploy custom exploits, recon tools, and auditing scripts — blendi
 • Created Python GUI apps with PyQt for cybersecurity automation & user-friendly exploitation tools
 • Admin dashboards with CRUD secured against common web vulns
 
-Always building. Always learning. Always poking systems the right way. 
+Always building. Always learning. 
 
 
 🎓 Fields of Study
 💻 Fullstack Programming (Frontend & Backend)
 🛡️ Pentesting & Offensive Security
 🌐 Networking & Secure Network Design
-📡 RFID Attacks & Exploitation
+📡 RFID 
 📶 Software Defined Radio (SDR)
 🤖 Robotics & Embedded Systems (Arduino / Raspberry Pi)
 🧱 3D Printing for custom Arduino enclosures & cyber-physical prototypes
