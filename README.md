@@ -29,7 +29,7 @@ I develop tools, technical projects and research environments focused on system 
 • OSINT recon tools (Python)
 • Cybersecurity hardware projects: SDR (Software Defined Radio), RFID, Wi-Fi pentesting
   robotics automation with Arduino & Raspberry Pi
-• Created Python GUI apps with PyQt for cybersecurity automation & user-friendly exploitation tools
+• Created Python GUI apps with PyQt for cybersecurity automation & analysis tools
 • Admin dashboards with CRUD secured against common web vulns
 
 Always building. Always learning. 
@@ -37,7 +37,7 @@ Always building. Always learning.
 
 🎓 Fields of Study
 💻 Fullstack Programming (Frontend & Backend)
-🛡️ Pentesting & Offensive Security
+🛡️ Cybersecurity & Security Research
 🌐 Networking & Secure Network Design
 📡 RFID 
 📶 Software Defined Radio (SDR)
