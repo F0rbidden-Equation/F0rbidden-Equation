@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 ```diff
 - Welcome on the github F0rbidden-Equation
 
- 👨‍💻 Fullstack Dev turned Ethical Hacker
-Fullstack Developer & Cybersecurity Enthusiast
+ 👨‍💻 Fullstack Developer & Cybersecurity Enthusiast
 Passionate about cybersecurity, networking, automation and technical experimentation.
 I develop tools, technical projects and research environments focused on system analysis, security and network technologies.
 
